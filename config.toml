@@ -1,0 +1,32 @@
+theme = "hyde"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "A. Hecksher"
+
+
+[params]
+  themeColor = "theme-base-0d"
+  description = "Doing data science things with my data science friends."
+  
+  
+[menu]
+  [[menu.main]]
+   identifier = "twitter"
+    name = "Twitter"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "http://www.twitter.com/aahecksher"
+    weight = -110
+    
+  [[menu.main]]
+   identifier = "linkedin"
+    name = "LinkedIn"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "http://www.linkedin.com/in/aarronhecksher"
+    weight = -150
+    
+  [[menu.main]]
+   identifier = "github"
+    name = "GitHub"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "http://www.github.com/ahecksher"
+    weight = -150
