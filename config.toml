@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://ahecksher.com/"
 title = "A.Hecksher"
 
 theme = "hugo-coder"
@@ -13,7 +13,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 enableEmoji = true
 
-ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+#ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
 #disqusShortname = "yourdiscussshortname"
 
