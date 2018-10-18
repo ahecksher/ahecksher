@@ -4,6 +4,7 @@ author: "Aarron Hecksher"
 date: 2018-10-18T21:13:14-05:00
 categories: ["R"]
 tags: ["R Markdown", "hello world"]
+draft: false
 ---
 
 ```{r setup, include=FALSE}
