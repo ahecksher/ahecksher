@@ -1,0 +1,29 @@
+---
+title: "Hello World"
+author: "Aarron Hecksher"
+date: 2018-10-18T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "hello world"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# You caught me...
+
+So I don't actually have a post here...or do I?  Check out this sweet default pie chart though!
+
+
+
+# Sweet Pie Chart
+
+```{r echo = FALSE, pie, fig.cap='A fancy pie chart.', tidy=FALSE}
+par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
+  col = c('#0292D8', '#F7EA39', '#C4B632'),
+  init.angle = -50, border = NA
+)
+```
