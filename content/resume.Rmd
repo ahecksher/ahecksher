@@ -6,33 +6,30 @@ categories: []
 tags: []
 ---
 
-##### Objective
+### Objective
 I help my clients solve problems big and small using data science mixed with an insatiable curiosity and a dash of creativity.
 
 Primary domain expertise in the CPG/Retail Industry with multiple retailers (Walmart, Target, Kroger, etc.) for both Brick and Mortar stores as well as E-Commerce. 
 
 Specific interests in machine learning, bayesian data analysis, natural language processing, and time-series analysis.
 
-##### Education
-BACHELOR OF SCIENCE | 2005 | UNIVERSITY OF ARKANSAS
+### Education
+* UNIVERSITY OF ARKANSAS | 2005 | BS in Industrial Engineering (Mathematics minor)
 
-*	Major: Industrial Engineering
-*	Minor: Mathematics
-
-##### Skills & Abilities
+### Skills & Abilities
 * Personal: Communication, Project Management, Cross-functional Team Leadership, Management, Customer Service
 * Programming: C#, SQL, R, Python 3, VBA, PowerShell, T-SQL, Shiny, GIT
 * DBMS: MS SQL Server, Vertica, Postgres, MS Access
 * Application Specific: MS Office suite, RStudio, Rodeo, MS Machine Learning Server, Shiny
 
-##### Interests & Hobbies
+### Interests & Hobbies
 * Perpetually and purposefully learning.
 * Reading or listening to thought provoking science fiction.
 * Spending time with my wife and 3 daughters.
 * Always dreaming of the next big thing.
 
-##### Experience
-####### DIRECTOR OF SPECIAL PROJECTS | ATLAS TECHNOLOGIES | 3/2014 – PRESENT
+### Experience
+##### DIRECTOR OF SPECIAL PROJECTS | ATLAS TECHNOLOGIES | 3/2014 – PRESENT
 * Tasked with solving non-traditional business problems across multiple teams internally and multiple clients externally.
 * Architect and maintainer of ATLAS’s OSA (On Shelf Availability) product. Created to help scientifically identify troublesome items to give additional visibility in reporting and maximize a retail operations team’s time in store. Infinitely configurable.
 * Creator of the “Closed Loop Reporting” process for Retail Operations clients that helps more accurately identify the efficiency, effectiveness, and ROI of retail operations teams.
@@ -45,7 +42,7 @@ Duties included:
 * Creation of client specific reporting using the ATLAS platform and other custom solutions to help ensure our client's analytical success with ATLAS
 * Management, training, and growth of our Business Intelligence Team
 
-###### BUSINESS SYSTEMS ANALYST - WALMART | CONNOLLY, INC. | 6/2011 – 6/2012
+##### BUSINESS SYSTEMS ANALYST - WALMART | CONNOLLY, INC. | 6/2011 – 6/2012
 * Served as part of the developer team in support of the accounts payable auditing team for WALMART INC. by developing specialized tools and processes specific to WALMART financial data and email communication that enabled the team to recover more than $80M for the year.  This included: 
     + SQL Server based processes for discovering anomalies and inconsistencies in financial data to write claims on. 
     + PowerShell scripts for processing emails, including attachments, and then storing it in standardized tables where the data could then be used by other processes find discrepancies based on contractual agreements with vendors.
@@ -54,7 +51,7 @@ BUSINESS SYSTEMS ANALYST – SHARED SERVICES | CONNOLLY, INC. | 9/2009 – 6/201
     + Statement Tracker – MS Access / SQL Server based workflow solution that allowed team members to log and track items and contacts.
     + Client Communicator – MS Access based solution that allowed for mass emailing, faxing, and tracking of organizations that owed clients.
 
-###### INDUSTRIAL ENGINEER | SPIRIT AEROSYSTEMS | 6/2005 – 9/2009
+##### INDUSTRIAL ENGINEER | SPIRIT AEROSYSTEMS | 6/2005 – 9/2009
 * Developed small scale software solutions using MS Access / SQL Server based on industrial engineering principles.  This included:
     + Advanced Tracking System – reporting system that integrated multiple data sources to give company wide visibility during the start up phase of the 787 program.
     + Advanced Planning Tools – reporting and notification system for 787 program that integrated data from Design Engineering systems (CATIA/ENOVIA) and Manufacturing Engineering (HMS) to quickly identify and help resolve discrepancies.
