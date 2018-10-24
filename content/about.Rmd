@@ -1,5 +1,5 @@
 ---
-title: "Me Me Me"
+title: "Who Am I?"
 author: "Aarron Hecksher"
 date: "October 17, 2018"
 output: html_document
@@ -9,4 +9,4 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-My name is Aarron Hecksher.
+My name is Aarron Hecksher.  I graduate from the University of Arkansas with a Bachelors of Science in Industrial Engineering (and an obligatory minor in Mathematics).  

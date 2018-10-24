@@ -56,21 +56,17 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
 
 [[menu.main]]
-    name = "Blog"
+    name = "BLOG"
     weight = 1
     url  = "/post/"
 [[menu.main]]
-    name = "About"
+    name = "ABOUT"
     weight = 2
     url = "/about/"
 [[menu.main]]
-    name = "Projects"
+    name = "RESUME"
     weight = 3
-    url = "/projects/"
-[[menu.main]]
-    name = "Contact me"
-    weight = 5
-    url = "/contact/"
-    
+    url = "/resume/"
+
 
 
