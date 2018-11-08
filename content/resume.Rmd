@@ -31,10 +31,11 @@ Specific interests in machine learning, bayesian data analysis, natural language
 ### Experience
 ##### DIRECTOR OF SPECIAL PROJECTS | ATLAS TECHNOLOGIES | 3/2014 – PRESENT
 * Tasked with solving non-traditional business problems across multiple teams internally and multiple clients externally.
-* Architect and maintainer of ATLAS’s OSA (On Shelf Availability) product. Created to help scientifically identify troublesome items to give additional visibility in reporting and maximize a retail operations team’s time in store. Infinitely configurable.
+* Co-Architect and maintainer of ATLAS’s OSA (On Shelf Availability) product. Created to help scientifically identify troublesome items to give additional visibility in reporting and maximize a retail operations team’s time in store. Infinitely configurable.
 * Creator of the “Closed Loop Reporting” process for Retail Operations clients that helps more accurately identify the efficiency, effectiveness, and ROI of retail operations teams.
 * Development of data science specific metrics and processes for Canopy (e-commerce reporting platform) including mining of review topics, sentiment analysis, sales forecasting, and online listing analysis. 
-FOUNDING MEMBER & BI/OPERATIONS MANAGER | ATLAS TECHNOLOGIES | 6/2012 – 3/2014
+
+##### FOUNDING MEMBER & BI/OPERATIONS MANAGER | ATLAS TECHNOLOGIES | 6/2012 – 3/2014
 * As part of the founding team, I helped grow ATLAS from a team of 5 to 70+, supporting over 600 different vendors, many of which are the in the top 100  CPG companies worldwide.
 Duties included:
 * Client Management
@@ -46,7 +47,8 @@ Duties included:
 * Served as part of the developer team in support of the accounts payable auditing team for WALMART INC. by developing specialized tools and processes specific to WALMART financial data and email communication that enabled the team to recover more than $80M for the year.  This included: 
     + SQL Server based processes for discovering anomalies and inconsistencies in financial data to write claims on. 
     + PowerShell scripts for processing emails, including attachments, and then storing it in standardized tables where the data could then be used by other processes find discrepancies based on contractual agreements with vendors.
-BUSINESS SYSTEMS ANALYST – SHARED SERVICES | CONNOLLY, INC. | 9/2009 – 6/2011
+    
+##### BUSINESS SYSTEMS ANALYST – SHARED SERVICES | CONNOLLY, INC. | 9/2009 – 6/2011
 * Sole developer that engineered and created new systems and business processes for the newly created shared services division that enabled a small (< 10) team to recover $20M+ yearly in invoice statement credits and unclaimed property for commercial and retail clients.  This included:
     + Statement Tracker – MS Access / SQL Server based workflow solution that allowed team members to log and track items and contacts.
     + Client Communicator – MS Access based solution that allowed for mass emailing, faxing, and tracking of organizations that owed clients.
