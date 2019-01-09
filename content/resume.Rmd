@@ -29,7 +29,10 @@ Specific interests in machine learning, bayesian data analysis, natural language
 * Always dreaming of the next big thing.
 
 ### Experience
-##### DIRECTOR OF SPECIAL PROJECTS | ATLAS TECHNOLOGIES | 3/2014 – PRESENT
+##### PRINCIPAL DATA SCIENTIST | One Stone | 12/2018 - Current
+* Doing data science things with my data science friends!
+
+##### DIRECTOR OF SPECIAL PROJECTS | ATLAS TECHNOLOGIES | 3/2014 – 12/2018
 * Tasked with solving non-traditional business problems across multiple teams internally and multiple clients externally.
 * Co-Architect and maintainer of ATLAS’s OSA (On Shelf Availability) product. Created to help scientifically identify troublesome items to give additional visibility in reporting and maximize a retail operations team’s time in store. Infinitely configurable.
 * Creator of the “Closed Loop Reporting” process for Retail Operations clients that helps more accurately identify the efficiency, effectiveness, and ROI of retail operations teams.

@@ -12,7 +12,8 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 enableEmoji = true
-
+pluralizelisttitles = true
+dateformat = "Jan 2, 2006"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
 #disqusShortname = "yourdiscussshortname"
@@ -21,11 +22,12 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     author = "Aarron Hecksher"
     description = "Aarron Hecksher's personal website"
     keywords = "blog,data science,developer,personal"
-    info = "Data Scientist - Technologist - Problem Solver"
+    info = "Data Scientist - Innovator - Problem Solver"
     avatarurl = "images/ahecksher.jpg"
-    footercontent = "Look what you made me do."
+    faviconfile = "images/favicon.png"
+    footercontent = "Made you look."
 
-    dateformat = "January 2, 2006"
+    dateformat = "Jan 2, 2006"
 
     hideCredits = false
     hideCopyright = false
