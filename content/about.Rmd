@@ -13,6 +13,6 @@ My name is Aarron Hecksher and I'm a data scientist.  I absolutely love using th
 
 I graduated from the University of Arkansas with a Bachelors of Science in Industrial Engineering (and the obligatory minor in Mathematics).  I was drawn to industrial engineering because the idea of solving complex problems through the thoughtful design, careful observation, and statiscal analysis sounded like a fun way to make a living.  I've taken and grown that skillset across industries ranging from aerospace/manufacturing at [Spirit Aerosystems](https://www.spiritaero.com) to finance/auditing at [Connolly](https://www.cotiviti.com/connoly) to my current role in retail/cpg analytics, where I was a founding member for [Atlas Technology Group](https://www.atlasdsr.com) and currently enjoy a role as a data scientist at [OneStone Ecomm](https://www.onlyonestone.com).
 
-In my free time you can catch me playing with my daughters, enjoying date nights with my wife, or find me eye balls deep in a syfy/data science/stats book or MOOC (I really enjoy [DataCamp!](https://www.datacamp.com))
+In my free time you can catch me playing with my daughters, enjoying date nights with my wife, or find me eye balls deep in a syfy/data science/stats book or MOOC.
 
 This blog was built using the incredibly useful [blogdown package](https://github.com/rstudio/blogdown), [Hugo](https://gohugo.io), and [Netlify](https://www.netlify.com).
